@@ -14,7 +14,7 @@ Cada agente hace solo su área, lee el documento aprobado del anterior, registra
 | 4 | Ventas y Conversión (`essential-vendas`) | v1.0, validado |
 | 5 | Copy y Contenido (`essential-copy`) | v1.0, validado |
 | 6 | Creativo (`essential-criativo`) | v1.0, validado |
-| 7 | Social Media | pendiente |
+| 7 | Social Media (`essential-social`) | v1.0, validado |
 | 8 | Automatización e Integraciones | pendiente |
 | 9 | Publicidad de Pago | pendiente |
 | 10 | Datos y Rendimiento | pendiente |
