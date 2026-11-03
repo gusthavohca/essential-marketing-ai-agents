@@ -2,6 +2,9 @@
 
 Criterio de validación: una skill se considera validada cuando, llamada por su nombre, entrega lo que se le pide. Las cuentas de prueba son ficticias.
 
+## essential-gestao v1.1 — 2026-11-03
+Validada. Añade los estados "aguardando aprovação do operador" y "do cliente", aprobación en dos etapas para documentos del cliente, y no cambia el estado de otros agentes ni deduce los servicios contratados. Prueba F superada con cuenta ficticia.
+
 ## essential-marca v1.0 — 2026-11-03
 Validada. Prueba con cuenta ficticia superada: abrió con "Executado fora de sequência", entregó solo el Documento 1 (Plataforma de Marca) con textos en español y traducción, y quedó en "aguardando aprovação do operador".
 
