@@ -12,7 +12,7 @@ Cada agente hace solo su área, lee el documento aprobado del anterior, registra
 | 2 | Estrategia y Mercado (`essential-estrategia`) | v1.1, validado |
 | 3 | Marca y Posicionamiento (`essential-marca`) | v1.0, validado |
 | 4 | Ventas y Conversión (`essential-vendas`) | v1.0, validado |
-| 5 | Copy y Contenido | pendiente |
+| 5 | Copy y Contenido (`essential-copy`) | v1.0, validado |
 | 6 | Creativo | pendiente |
 | 7 | Social Media | pendiente |
 | 8 | Automatización e Integraciones | pendiente |
