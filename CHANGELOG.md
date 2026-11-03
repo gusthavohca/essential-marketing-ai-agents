@@ -2,6 +2,9 @@
 
 Criterio de validación: una skill se considera validada cuando, llamada por su nombre, entrega lo que se le pide. Las cuentas de prueba son ficticias.
 
+## essential-automacao v1.0 — 2026-11-03
+Validada. Prueba con cuenta ficticia superada (bloqueo): no inició, listó 4 pendientes con evidencia y riesgo, señaló problemas de concepción (WhatsApp no es hoy el canal de reserva, riesgo de Z-API, volumen bajo, prueba manual obligatoria), ofreció tres decisiones y cerró con "Próxima ação" y "O que medir". La entrega de los Documentos 1 y 2 tras la excepción no se ejercitó.
+
 ## essential-social v1.0 — 2026-11-03
 Validada. Prueba con cuenta ficticia superada (bloqueo): no armó la agenda, listó 7 bloqueos con fuente, señaló inconsistencias entre documentos y el problema de concepción, ofreció seguir el orden o continuar fuera de secuencia (plan y esqueleto de 14 días, todo pendiente, nada programado) y cerró con "Próxima ação" y "O que medir". La entrega del Documento 2 tras la opción B no se ejercitó.
 
