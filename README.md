@@ -10,7 +10,7 @@ Cada agente hace solo su área, lee el documento aprobado del anterior, registra
 |---|--------|--------|
 | 1 | Gestión (`essential-gestao`) | v1.0, validado |
 | 2 | Estrategia y Mercado (`essential-estrategia`) | v1.1, validado |
-| 3 | Marca y Posicionamiento | en construcción |
+| 3 | Marca y Posicionamiento (`essential-marca`) | v1.0, validado |
 | 4 | Ventas y Conversión | pendiente |
 | 5 | Copy y Contenido | pendiente |
 | 6 | Creativo | pendiente |
