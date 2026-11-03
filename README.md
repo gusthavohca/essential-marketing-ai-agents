@@ -17,7 +17,7 @@ Cada agente hace solo su área, lee el documento aprobado del anterior, registra
 | 7 | Social Media (`essential-social`) | v1.0, validado |
 | 8 | Automatización e Integraciones (`essential-automacao`) | v1.0, validado |
 | 9 | Publicidad de Pago (`essential-midia`) | v1.0, validado |
-| 10 | Datos y Rendimiento | pendiente |
+| 10 | Datos y Rendimiento (`essential-dados`) | v1.0, validado |
 
 ## Cómo funciona el ciclo
 
